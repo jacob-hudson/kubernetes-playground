@@ -5,3 +5,4 @@
 - https://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x
 - https://opensource.com/article/17/3/kubernetes-raspberry-pi?sc_cid=7016000000127ECAAY
 - https://opensource.com/article/17/11/getting-started-kubernetes
+- https://thenewstack.io/ops-checklist-monitoring-kubernetes-scale/
