@@ -9,3 +9,4 @@
 - https://eng.lyft.com/announcing-cni-ipvlan-vpc-k8s-ipvlan-overlay-free-kubernetes-networking-in-aws-95191201476e
 - https://dev.to/datawireio/fast-development-workflow-with-docker-and-kubernetes-1if
 - https://codefresh.io/webinars/webinar-get-started-kubernetes/
+- https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16
